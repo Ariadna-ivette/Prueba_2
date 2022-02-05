@@ -7,6 +7,5 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 sesión de GitHub
 Intro a GitHub
 
-### HackWomen
+### Insertaremos una imágen
 
-**Google Developer Student Club**
